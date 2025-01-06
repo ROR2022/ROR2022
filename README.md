@@ -1,9 +1,16 @@
-Hello, I'm Ramiro Ocampo:
+My name is Ramiro Ocampo, and I am a highly motivated full-stack developer with extensive experience in Node.js, React.js, Next.js, and Nest.js. My passion for web development and dedication to continuous learning have allowed me to specialize in modern, cutting-edge technologies to deliver scalable and efficient solutions.
 
-I am a developer with experience in Node.js, React.js, Next.js, Nest.js and I am looking for opportunities to work on projects involving these technologies. My passion for web development and commitment to continuous improvement have led me to specialize in these key areas of modern development.
+I am seeking remote opportunities, either on a permanent basis or per project, with national or international companies. I firmly believe in the power of remote collaboration to connect diverse teams and tackle challenging projects, regardless of geographic location. My objective is to contribute my expertise to innovative and impactful initiatives.
 
-I am interested in collaborating remotely, either on a permanent basis or per project, with a national or international company. I firmly believe in the potential of remote work to connect with diverse teams and work on challenging projects regardless of geographic location. My goal is to contribute my skills and knowledge to innovative and high-impact projects.
+My technical background includes:
 
-In addition, I have experience in developing RESTful APIs, managing databases such as MongoDB and SQL, and knowledge of frontend and backend technologies that complement my profile as a full-stack developer. I am passionate about learning new technologies and development methodologies, and I always strive to stay updated with the latest industry trends.
+Developing robust RESTful APIs.
+Managing databases such as MongoDB and SQL.
+Strong proficiency in both frontend and backend technologies, making me a versatile contributor to full-stack development.
+Additionally, I am passionate about embracing new technologies, adopting modern development methodologies, and staying ahead of industry trends.
 
-I am available to discuss opportunities and collaborate on interesting projects. You can contact me via WhatsApp at +52 833 299 8900 or by email at rami.ror279@gmail.com. I look forward to contributing to exciting projects and being part of dynamic and creative teams.
+I am available to discuss how I can contribute to your team or project. Feel free to contact me at:
+
+WhatsApp: +52 777 7937 484
+Email: rami.ror279@gmail.com
+I look forward to collaborating on meaningful projects and being a part of dynamic, creative teams.
